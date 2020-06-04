@@ -1,0 +1,30 @@
+body {
+  background: grey; 
+  font-size: 25px;
+}
+#header{
+    background-color:skyblue;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+.nav {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:300px;
+    width:150px;
+    float:left;
+    padding:5px; 
+}
+#section {
+    width:350px;
+    float:left;
+    padding:10px; 
+}
+#footer {
+    background-color:skyblue;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px; 
+}
